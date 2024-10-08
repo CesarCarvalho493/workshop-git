@@ -1,4 +1,5 @@
 # Workshop git
 
+<<<<<<< HEAD
 hello world
-hello world!!!
+hello world!!1
